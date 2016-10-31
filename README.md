@@ -11,3 +11,5 @@ An arcade like program with 3 games on 3 different graphic libraries
  - **OpenGL**
  - **SFML**
  - **ncurses**
+ 
+![Alt text](Images/ArcadeView.png)
